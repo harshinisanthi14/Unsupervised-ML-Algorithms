@@ -47,3 +47,8 @@ DBSCAN groups together points that are close in terms of density, and marks poin
 
 **Best Use Case:**  
 When clusters have irregular shapes and dataset contains noise.
+
+
+If you have any questions, feel free to reach out:
+
+Harshini - harshiniudayagiri@gmail.com
